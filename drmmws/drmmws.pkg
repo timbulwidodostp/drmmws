@@ -1,0 +1,7 @@
+D 'drmmws': Doubly-robust marginal mean weighting through stratification Use drmmws With STATA 19
+D
+F drmmws.ado
+F drmmws_bs.ado
+F drmmws.sthlp
+F mmws.ado
+F mmws.sthlp
