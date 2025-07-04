@@ -1,6 +1,8 @@
 # drmmws
 Doubly-robust marginal mean weighting through stratification Use drmmws With STATA 19
 
+https://www.youtube.com/watch?v=Jp7neH6ndJM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
